@@ -1,3 +1,3 @@
-class assert_routing
+class Song
   
 end
