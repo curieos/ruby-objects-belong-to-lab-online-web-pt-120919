@@ -3,6 +3,5 @@ class Post
   
   def initialize()
     
-  e
-  nd
+  end
 end
